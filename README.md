@@ -1,4 +1,4 @@
-# BookStore_Java_Web_Project
+# BookStore-JavaWebProject
 
 Technology stack:
    Servle、Filter、Listener、jsp、EL、JSTL、jQuery、Cookie、Session
