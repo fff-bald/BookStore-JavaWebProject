@@ -1,6 +1,6 @@
 # BookStore_Java_Web_Project
 
-TEST:
+Technology stack:
    Servle、Filter、Listener、jsp、EL、JSTL、jQuery、Cookie、Session
 
-#本项目框架来自尚硅谷JavaWeb教程
+ps:本项目框架来自尚硅谷JavaWeb教程
