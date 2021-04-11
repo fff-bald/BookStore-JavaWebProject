@@ -2,6 +2,8 @@
 
 Technology stack:
    Servle、Filter、Listener、jsp、EL、JSTL、jQuery、Cookie、Session
+   
+introduce：https://blog.csdn.net/awsl_6699/article/details/107733962
 
 ps:本项目框架来自尚硅谷JavaWeb教程
 
